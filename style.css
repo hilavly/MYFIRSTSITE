@@ -25,7 +25,7 @@ h2{
 	font-size: 24px;
 	font-family: 'Crafty Girls', cursive;
 	text-align: center;
-	color: purple;
+	color:#9484A1;
 }
 
 nav li{
@@ -54,7 +54,7 @@ li a:hover{
 }
 
 .image{
-	height: 250px;
+	height: 150px;
 	border-radius: 15px;
 }
 
