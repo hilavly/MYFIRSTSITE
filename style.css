@@ -34,17 +34,18 @@ nav li{
 	display:inline; 
 	color: #ffffff;
 	font-family: lato, sans-serif;
+	position: relative;
 	
 }
 
 nav li:after{
 	content: "\\";
 	padding:0 10px;
-	color: purple;
+	color: #9484A1;
 }
 
 li a:hover{
-		color: purple;
+		color: #9484A1;
 
 }
 
@@ -62,7 +63,8 @@ li a:hover{
 	display: inline-block;
 	text-align: left;
 	border-radius: 50px;
-	padding-right: 20px;
+	padding-right: 5px;
+	padding-left: 30px;
 
 
 }
@@ -70,8 +72,8 @@ li a:hover{
 	text-decoration: none;
 	color: white;
 	float: right;
-	margin-left: 5px;
-	padding: 10px;
+	margin-left: 20px;
+	padding-left: 7vw;
 }
 
 .about_container {
@@ -91,6 +93,7 @@ li a:hover{
 }
 .form_text{
 	padding-right: 20px;
+	
 }
 /*MEDIA QUERIES*/
 
